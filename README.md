@@ -45,8 +45,8 @@ nlp_class_jan/
 ### First Time Setup
 
 ```bash
-# Clone the repository
-git clone https://github.com/uditmahato/nlp_class_jan.git
+# Fork the repository on GitHub first, then clone your fork
+git clone https://github.com/YOUR-USERNAME/nlp_class_jan.git
 cd nlp_class_jan
 
 # Create your feature branch

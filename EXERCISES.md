@@ -74,14 +74,15 @@ This file contains hands-on exercises to help you learn GitHub collaboration.
 
 **Steps:**
 1. Create a new branch: `git checkout -b feature/your-name-nlp-project`
-2. Create a new file: `projects/your-name-project-idea.md`
-3. Write a brief project proposal for an NLP project:
+2. Create a projects directory: `mkdir projects`
+3. Create a new file: `projects/your-name-project-idea.md`
+4. Write a brief project proposal for an NLP project:
    - Project title
    - Problem statement
    - Proposed approach
    - Expected outcomes
-4. Commit and push your branch
-5. Create a pull request from your feature branch
+5. Commit and push your branch
+6. Create a pull request from your feature branch
 
 **Success Criteria:**
 - ✅ Branch name follows naming convention
@@ -142,7 +143,7 @@ This file contains hands-on exercises to help you learn GitHub collaboration.
 **Steps:**
 1. Form groups of 2-3 students
 2. Choose an NLP topic for a mini-project
-3. Create a project structure:
+3. Create a project structure (create these directories and files as part of the exercise):
    ```
    projects/
      team-name/
