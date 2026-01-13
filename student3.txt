@@ -1,0 +1,11 @@
+# Student 3 - Test File
+
+## Instructions:
+1. Add your name here: 
+2. Add your favorite NLP topic: 
+3. Commit this file with a meaningful message
+4. Create a pull request
+
+## Practice Area:
+Write something about yourself or your interest in NLP below:
+
